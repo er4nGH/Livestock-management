@@ -12,4 +12,4 @@ Programmer : Erfan Ghaempanah
 
 at [BuAli Sina university of Hamedan](https://basu.ac.ir)
 
-coders : [Erfan Ghaem Panah](https://github.com/er4nGH)
+coders : [Erfan Ghaempanah ](https://github.com/er4nGH)
