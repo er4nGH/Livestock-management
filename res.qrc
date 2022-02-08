@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/logo.png</file>
+        <file>icons/farmer.png</file>
+        <file>icons/money.png</file>
+        <file>icons/welcome.png</file>
+        <file>icons/farm.png</file>
+    </qresource>
+</RCC>
